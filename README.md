@@ -2,7 +2,7 @@
 
 # ✦ Teddie John Rajeev (Caspted) ✦
 
-### Software Engineer & Full-Stack Builder • CPU Entrance Academic Scholar
+### Software Engineer & Full-Stack Builder
 **Iloilo City, Philippines • Open to Worldwide Frontend & Full-Stack Opportunities**
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 ---
 
-### 📖 The Odyssey (About Me)
+### 📖 About Me
 
-I am a Software Engineer graduated from **Central Philippine University** with an **Entrance Academic Scholarship**. 
+I am a Software Engineer graduated from **Central Philippine University** (BS Software Engineering). 
 
 Driven by the same curiosity that keeps an avid reader turning pages at 3AM or sends an explorer past the edge of an open-world map, I build software systems with the depth of a world-builder and the precision of an algorithmic craftsman. 
 
@@ -76,12 +76,11 @@ Driven by the same curiosity that keeps an avid reader turning pages at 3AM or s
 
 ---
 
-### 🌌 What Fuels My Imagination (The Mind's Codex)
+### 🌌 What Fuels My Imagination
 
-- **Manga & Manhwa:** *Solo Leveling*, *Omniscient Reader's Viewpoint*, *Tower of God* — The addictive drive of system progression, underdog grit, and relentless leveling up.
-- **Open-World Games:** *Elden Ring*, *The Witcher 3*, *Zelda: Tears of the Kingdom* — Expansive, interconnected architectures that reward genuine curiosity.
-- **Mind & Puzzle Games:** *Outer Wilds*, *Portal 2*, *The Witness* — Epiphany-driven deduction and root-cause debugging.
-- **Craft Philosophy:** *Meditations*, *Atomic Habits*, *The Pragmatic Programmer* — Disciplined iterations, continuous self-authorship, and pride in clean craftsmanship.
+- **Story-Driven Games & Exploration:** **Assassin's Creed Series**, **Uncharted Series**, and **The Legend of Zelda** — rich worlds defined by exploration, history, and environmental puzzle-solving that reward boundless curiosity.
+- **Strategy & Tactical Foresight:** **Chess & Board Games** — spatial calculation, calculating permutations several moves in advance, and maintaining state invariants under pressure.
+- **Cinema & Narrative Direction:** **Western Shows & Movies** — high-stakes narrative tension and storytelling flow that directly shape intuitive, friction-free user experiences.
 
 ---
 
